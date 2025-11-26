@@ -1,0 +1,6 @@
+train: data/train.txt  
+val: data/test.txt  
+
+nc: 7   #训练的类别
+
+names: ['cancel_10','crossing','uphill_slope','limit_10','turn_left','paper_red','paper_greend']
